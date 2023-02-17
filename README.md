@@ -1,4 +1,5 @@
-### Hi there 👋
+### I'm Jayesh, a Data Science student and AI enthusiast
+https://www.jayeshp.com/
 
 <!--
 **jayeshpaluru/jayeshpaluru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
