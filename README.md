@@ -1,21 +1,21 @@
-#Hey there! I'm Jayesh Paluru 👋
+# Hey there! I'm Jayesh Paluru 👋
 
-###I'm a Data Science student at the University of Texas at Dallas (UTD) and a Google and IBM certified data analyst. I am passionate about using my data skills to help companies make smarter decisions. I am passionate about data science, web development, and AI
+### I'm a Data Science student at the University of Texas at Dallas (UTD) and a Google and IBM certified data analyst. I am passionate about using my data skills to help companies make smarter decisions. I am passionate about data science, web development, and AI
 
-##Education 🎓
-###Honors Bachelor of Sciences in Data Science, UTD, Richardson, Texas
-###IBM Data Analytics Professional Certification – IBM Skills Network
-###Google Data Analytics Professional Certification – Google Career Certificates
-##Technical Skills 🛠️
-###Data Analysis: Excel, SQL, Python, R, NumPy, Pandas, Sci-kit Learn, Matplotlib, Seaborn
-###Data Visualization: Tableau, Matplotlib, Seaborn
-###Machine Learning: PyTorch, Keras, TensorFlow, Sci-kit Learn
-###Web Development: HTML, CSS, JavaScript, jQuery, Bootstrap, Node.js
-###Tools: MS SQL Server, MySQL, Git, Microsoft Suite, Google Suite
+## Education 🎓
+### Honors Bachelor of Sciences in Data Science, UTD, Richardson, Texas
+### IBM Data Analytics Professional Certification – IBM Skills Network
+### Google Data Analytics Professional Certification – Google Career Certificates
+## Technical Skills 🛠️
+### Data Analysis: Excel, SQL, Python, R, NumPy, Pandas, Sci-kit Learn, Matplotlib, Seaborn
+### Data Visualization: Tableau, Matplotlib, Seaborn
+### Machine Learning: PyTorch, Keras, TensorFlow, Sci-kit Learn
+### Web Development: HTML, CSS, JavaScript, jQuery, Bootstrap, Node.js
+### Tools: MS SQL Server, MySQL, Git, Microsoft Suite, Google Suite
 
-##Personal Website 🌐
-###Check out my personal website [here](https://www.jayeshp.com/) to learn more about me!
+## Personal Website 🌐
+### Check out my personal website [here](https://www.jayeshp.com/) to learn more about me!
 
-##Skills & Interests 🤹‍♂️
-###Data Analysis, Data Visualization, Data Science, Machine Learning, Web Development, Communication, Leadership
-###I love swimming, watching tv, and reading! 🏊📺📚
+## Skills & Interests 🤹‍♂️
+### Data Analysis, Data Visualization, Data Science, Machine Learning, Web Development, Communication, Leadership
+### I love swimming, watching tv, and reading! 🏊📺📚
