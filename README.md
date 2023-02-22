@@ -1,6 +1,6 @@
 # Hey there! I'm Jayesh Paluru 👋
 
-### I'm a Data Science student at the University of Texas at Dallas (UTD) and a Google and IBM certified data analyst. I am passionate about using my data skills to help companies make smarter decisions. I am passionate about data science, web development, and AI
+### I'm a Data Science student at the University of Texas at Dallas (UTD) and a Google and IBM certified data analyst. I am passionate about data science, web development, and AI.
 
 ## Education 🎓
 ### Honors Bachelor of Sciences in Data Science, UTD, Richardson, Texas
