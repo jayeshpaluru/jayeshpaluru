@@ -8,7 +8,7 @@
 ### Google Data Analytics Professional Certification – Google Career Certificates
 ## Technical Skills 🛠️
 ### Data Analysis: Excel, SQL, Python, R, NumPy, Pandas, Sci-kit Learn, Matplotlib, Seaborn
-### Data Visualization: Tableau, Matplotlib, Seaborn
+### Data Visualization: PowerBI, Tableau, Matplotlib, Seaborn
 ### Machine Learning: PyTorch, Keras, TensorFlow, Sci-kit Learn
 ### Web Development: HTML, CSS, JavaScript, jQuery, Bootstrap, Node.js
 ### Tools: MS SQL Server, MySQL, Git, Microsoft Suite, Google Suite
