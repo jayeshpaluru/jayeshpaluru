@@ -1,17 +1,21 @@
-### I'm Jayesh, a Data Science student and AI enthusiast
-https://www.jayeshp.com/
+#Hey there! I'm Jayesh Paluru 👋
 
-<!--
-**jayeshpaluru/jayeshpaluru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###I'm a Data Science student at the University of Texas at Dallas (UTD) and a Google and IBM certified data analyst. I am passionate about using my data skills to help companies make smarter decisions. I am passionate about data science, web development, and AI
 
-Here are some ideas to get you started:
+##Education 🎓
+###Honors Bachelor of Sciences in Data Science, UTD, Richardson, Texas
+###IBM Data Analytics Professional Certification – IBM Skills Network
+###Google Data Analytics Professional Certification – Google Career Certificates
+##Technical Skills 🛠️
+###Data Analysis: Excel, SQL, Python, R, NumPy, Pandas, Sci-kit Learn, Matplotlib, Seaborn
+###Data Visualization: Tableau, Matplotlib, Seaborn
+###Machine Learning: PyTorch, Keras, TensorFlow, Sci-kit Learn
+###Web Development: HTML, CSS, JavaScript, jQuery, Bootstrap, Node.js
+###Tools: MS SQL Server, MySQL, Git, Microsoft Suite, Google Suite
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##Personal Website 🌐
+###Check out my personal website [here](https://www.jayeshp.com/) to learn more about me!
+
+##Skills & Interests 🤹‍♂️
+###Data Analysis, Data Visualization, Data Science, Machine Learning, Web Development, Communication, Leadership
+###I love swimming, watching tv, and reading! 🏊📺📚
