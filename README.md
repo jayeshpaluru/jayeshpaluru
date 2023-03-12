@@ -3,7 +3,7 @@
 ### I'm a Data Science student at the University of Texas at Dallas (UTD) and a Google and IBM certified data analyst. I am passionate about data science, web development, and AI.
 
 ## Education 🎓
-### Honors Bachelor of Sciences in Data Science, UTD, Richardson, Texas
+### Honors Bachelor of Sciences in Data Science at The University of Texas at Dallas
 ### IBM Data Analytics Professional Certification – IBM Skills Network
 ### Google Data Analytics Professional Certification – Google Career Certificates
 ## Technical Skills 🛠️
