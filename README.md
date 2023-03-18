@@ -14,22 +14,6 @@
 ### Web Development: HTML, CSS, JavaScript, jQuery, Bootstrap, Node.js
 ### Tools: MS SQL Server, MySQL, Git, Microsoft Suite, Google Suite
 
-## Statistics 📊
-<div style="display:flex;justify-content:space-around;align-items:center;">
-    <div>
-        <h3>Projects Completed</h3>
-        <p>100+</p>
-    </div>
-    <div>
-        <h3>Lines of Code Written</h3>
-        <p>10,000+</p>
-    </div>
-    <div>
-        <h3>GitHub Followers</h3>
-        <p>500+</p>
-    </div>
-</div>
-
 ## Personal Website 🌐
 ### Check out my personal website [here](https://www.jayeshp.com/) to learn more about me!
 
